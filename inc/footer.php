@@ -1,4 +1,18 @@
-<footer>
+<footer class="container-fluid bg-dark text-white mt-4 p-3">
+    <div class="row">
+        <section.col-12.col-md-6>
+            <ul style="list-style:none; padding:0; margin-left:120px">
+                <li><a class="text-white" style="text-decoration:none" href="mailto:fulano@fulano.com">fulano@fulano.com</a></li>
+                <li><a class="text-white" style="text-decoration:none" href="tel:+5511987654321">11 98765 4321</a></li>
+            </ul>
+        </section>
+        <section.col-12.col-md-6>
+            <ul style="list-style:none; padding:0; margin-left:120px">
+                <li>Rua dos Bobos nº 0 - Cep 12345-678</li>
+                <li>Fulano &copy; | CNPJ 00.000.000/0001-00</li>
+            </ul>
+        </section>
+    </div>
 
 </footer>
 
